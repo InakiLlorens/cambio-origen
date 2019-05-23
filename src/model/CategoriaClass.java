@@ -8,7 +8,7 @@ public class CategoriaClass extends Connect{
 	public CategoriaClass() {
 		super();
 		// TODO Auto-generated constructor stub
-	}
+	}//prueba de cambio de origen
 
 	public int getIdCategoria() {
 		return idCategoria;
